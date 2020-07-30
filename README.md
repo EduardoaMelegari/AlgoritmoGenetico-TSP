@@ -1,2 +1,2 @@
 # AlgoritmoGenetico-TSP
-Aplicação do Algoritmo Genético no Problema do Caixeiro Viajante
+Application of the Genetic Algorithm to the Traveling Salesman Problem
